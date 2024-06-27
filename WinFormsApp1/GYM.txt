@@ -1,0 +1,7 @@
+01145219876,mostafa,18,1512,5165,Mostafa,6 Monath 1500 L.E,Male01123456789,mahmoud,15,12,13,Salma,3 Monath 800 L.E,Male*01198765432,mohaned,13,56,515,Sama ,3 Monath 800 L.E,Male0113265981,Ahmed,15,65,656,Mostafa,6 Monath 1500 L.E,Male123456,as,20,10,10,abdallah,3 Monath 800 L.E,Male
+01003860971,abdallah,20,175,30,abdallah,12 Monath 2500 L.E,Male
+01003860971,abdallah,20,175,30,abdallah,12 Monath 2500 L.E,Male
+0100,hamdy,20,172,150,zeid,12 Monath 2500 L.E,Male
+0100,hamdy,20,172,150,zeid,12 Monath 2500 L.E,Male
+101010,hgfds,fgh,21,62,ali,1 Month 300 L.E,Male
+2020,abdallah,20,20,20,mostafa,1 Month 300 L.E,Male
